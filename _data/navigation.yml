@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "The Art of Programming"
+    url: /TheArt
+  #- title: "Learning"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -10,3 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+#The Art navigation links
+TheArt:
+  - title: "The Art"
+    children:
+      -title: "Chapter 1"
+      url: /ChapterOne
+
+#Navigation links for chapter One
+chapter_one:
+  -title: Basic Concepts
+  children:
+     -title: "1.1 Algorithms"
+     url: /docs/ChapterOne

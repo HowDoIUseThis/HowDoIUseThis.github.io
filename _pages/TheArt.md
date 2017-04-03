@@ -4,7 +4,8 @@ title: The Art of Programming
 permalink: /TheArt/
 author_profile: False
 sidebar:
-  nav: "TheArt"
+  title: The Art of Programming
+  nav: Vol1
 ---
 <html>
 <body>

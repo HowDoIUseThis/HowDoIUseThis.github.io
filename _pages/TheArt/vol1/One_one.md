@@ -11,8 +11,7 @@ sidebar:
 
 <h1> This is still a work in progress, right now the pdf does not load</h1>
 <div id="pdf">
-<iframe src="https://drive.google.com/open?id=0Bwzwn0Q_FOnxRTA3UGRFbHF6bm8&embedded=true"
-style="width:600px; height:500px;" frameborder="0">
+<iframe src="https://drive.google.com/file/d/0Bwzwn0Q_FOnxRTA3UGRFbHF6bm8/preview" width="640" height="480"></iframe>
 </iframe>
 </div>
 

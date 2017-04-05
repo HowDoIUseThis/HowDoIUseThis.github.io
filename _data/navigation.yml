@@ -2,6 +2,8 @@
 main:
   - title: "The Art of Programming"
     url: /TheArt
+  - title: Machine Learning
+    url: /MachineLearning
   #- title: "Learning"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,6 +12,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+#Learning Neural networks
+MachLearn:
+  - title: "Projects"
+    children:
+      - title: "Neural Networks"
+        url: /MLearn/L2Neural
 
 #The Art navigation links
 Vol1:

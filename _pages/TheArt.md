@@ -12,7 +12,10 @@ sidebar:
 
 <p>So for some reason I decided on completing every exercise in Donald Knuth's
 <cite>The Art of Programming</cite>. This Home page for all of work I have done
-so far. Below is a general breakdown of the chapters found in the book.</p>
+so far. Below is a general breakdown of the chapters found in the book. Each section
+will have my answers to the exercises in the format of a pdf created in latex.
+If a certain topic or exercise requires a lot of work or is interesting I will
+most likely make a separate page on it. </p>
 
 <h2>Chapter 1: Basic Concepts</h2>
 <p> 1.1 Basic Concepts</p>

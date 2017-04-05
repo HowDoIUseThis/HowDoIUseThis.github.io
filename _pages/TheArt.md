@@ -15,7 +15,8 @@ sidebar:
 so far. Below is a general breakdown of the chapters found in the book.</p>
 
 <h2>Chapter 1: Basic Concepts</h2>
-<p> This chapter focuses on ...</p>
+<p> 1.1 Basic Concepts</p>
+<p> 1.2 Mathematical Induction </p>
 <h2>Chapter 2: Information Structures</h2>
 <p>This chapter focuses on ...</p>
 </body>

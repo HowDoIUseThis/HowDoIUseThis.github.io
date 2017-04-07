@@ -12,12 +12,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-#Learning Neural networks
+#Machine Learning
 MachLearn:
   - title: "Projects"
     children:
       - title: "Neural Networks"
         url: /MLearn/L2Neural
+#Neural Networks
+L2Neural:
+  - title: "Basics"
+    children:
+      - title: "Basic structure"
+        url: /MLearn/NeuralBasic
+      - title: "Placeholder"
+        url:
 
 #The Art navigation links
 Vol1:
